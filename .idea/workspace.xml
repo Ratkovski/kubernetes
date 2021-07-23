@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1207b50b-25cf-41a2-a0c6-d11ea24f9da2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/KUBERNETES-ALURA/pod-1.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KUBERNETES-ALURA/pod-2.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KUBERNETES-ALURA/portal-noticias.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KUBERNETES-ALURA/svc-pod-1-loadbalancer.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KUBERNETES-ALURA/svc-pod-1.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KUBERNETES-ALURA/svc-pod-2.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KUBERNETES-PRATICA/portal-noticias.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KUBERNETES-PRATICA/db-noticias.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KUBERNETES-PRATICA/sistema-noticias.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KUBERNETES-PRATICA/svc-db-noticias.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KUBERNETES-PRATICA/svc-portal-noticias.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KUBERNETES-PRATICA/svc-sistema-noticias.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KUBERNETES-PRATICA/portal-noticias.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/KUBERNETES-PRATICA/portal-noticias.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
