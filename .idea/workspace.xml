@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1207b50b-25cf-41a2-a0c6-d11ea24f9da2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/KUBERNETES-PRATICA/pod-volume.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KUBERNETES-PRATICA/pod-pv.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KUBERNETES-PRATICA/pv.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KUBERNETES-PRATICA/pvc.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

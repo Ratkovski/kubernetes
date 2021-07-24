@@ -1,0 +1,12 @@
+#google clound plataform
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: pvc-1
+spec:
+    accessModes:
+      - ReadWriteOnce
+    resouces:
+      requests:
+        storage: 10Gi
+    storageClassName: standard

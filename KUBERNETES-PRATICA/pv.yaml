@@ -1,0 +1,13 @@
+#google clound plataform
+apiVersion: v1
+kind: PersistenceVolume
+metadata:
+  name: pv-1
+spec:
+  capacity:
+    storage: 16Gi
+  accessModes:
+    - ReadWriteOnce
+  gcePersistenceDisk:
+    pdName: pv-disk
+  storageClassName: standard
