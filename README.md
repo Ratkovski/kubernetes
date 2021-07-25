@@ -1,7 +1,8 @@
 # kubernetes
 Kubernetes: Pods, Services e ConfigMaps
 
-
+# arquivos de métricas 
+https://github.com/kubernetes-sigs/metrics-server
 
 ## Comandos
 
