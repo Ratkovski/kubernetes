@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1207b50b-25cf-41a2-a0c6-d11ea24f9da2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/KUBERNETES-PRATICA2/db-configmap.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KUBERNETES-PRATICA2/imagens-pvc.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KUBERNETES-PRATICA2/portal-configmap.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KUBERNETES-PRATICA2/portal-noticias-deployment.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KUBERNETES-PRATICA2/sessao-pvc.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KUBERNETES-PRATICA2/sistema-configmap.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KUBERNETES-PRATICA2/sistema-noticias-deployment.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KUBERNETES-PRATICA2/sistema-noticias-statefulset.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KUBERNETES-PRATICA2/svc-db-noticias.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KUBERNETES-PRATICA2/svc-portal-noticias.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KUBERNETES-PRATICA2/svc-sistema-noticias.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KUBERNETES-PRATICA2/portal-noticias-deployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/KUBERNETES-PRATICA2/portal-noticias-deployment.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KUBERNETES-PRATICA2/sistema-noticias-statefulset.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/KUBERNETES-PRATICA2/sistema-noticias-statefulset.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +15,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/KUBERNETES-PRATICA2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../KUBERNETES-PRATICA2" />
     <property name="settings.editor.selected.configurable" value="xml.catalog" />
   </component>
   <component name="RecentsManager">
